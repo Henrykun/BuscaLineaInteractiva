@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.3
 // @description  Busca palabras en la página, resalta las encontradas, se desplaza hacia ellas y permite navegar interactivamente
-// @author       Tu Nombre
+// @author       Henry Villalta
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
